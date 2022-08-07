@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a1ded1ee1334e64b13e7acdf0601162)](https://www.codacy.com/gh/Seun-Oyediran/seun-talentql/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Seun-Oyediran/seun-talentql&amp;utm_campaign=Badge_Grade)
+
 # Frontend Assessment
 
 Build and deploy a very simple frontend app for paginated data, that does the following
