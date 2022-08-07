@@ -30,6 +30,7 @@ export function isEvenNumber(number: number) {
 
 export function updateTable(data: IRowData) {
   tableBody?.replaceChildren("");
+
   for (let i = 0; i < data.length; i++) {
     const tr = document.createElement("tr");
     tr.setAttribute("data-entryid", data[i].id);
