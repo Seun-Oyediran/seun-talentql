@@ -1,4 +1,5 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a1ded1ee1334e64b13e7acdf0601162)](https://www.codacy.com/gh/Seun-Oyediran/seun-talentql/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Seun-Oyediran/seun-talentql&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a1ded1ee1334e64b13e7acdf0601162)](https://www.codacy.com/gh/Seun-Oyediran/seun-talentql/dashboard?utm_source=github.com&utm_medium=referral&utm_content=Seun-Oyediran/seun-talentql&utm_campaign=Badge_Grade)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/68d616bf-acb9-4fa0-b14c-51f4057886cc/deploy-status)](https://app.netlify.com/sites/seun-talentql/deploys)
 
 # Frontend Assessment
 
